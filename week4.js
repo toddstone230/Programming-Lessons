@@ -72,7 +72,7 @@ function printAllMath(num1, num2){
     console.log("Product is", multiply(num1, num2));
     console.log("Division is", divide(num1, num2));
 }
-
+// i added something new
 printAllMath(4,2);
 // console.log(hasNoReturn());
 
